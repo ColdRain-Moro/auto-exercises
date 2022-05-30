@@ -1,0 +1,17 @@
+{
+  "name": "auto-exercises",
+  "version": "1.0.0",
+  "description": "automaticly doing your c++ programing exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.4"
+  }
+}
